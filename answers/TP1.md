@@ -16,3 +16,4 @@ Q5:  7 columns
 
 Q6 Illuminate\Database\Eloquent\MassAssignmentException  Add [name] to fillable property to allow mass assignment on [App\Models\Ticket].
 
+Q7: numero 4 car La méthode orderBy('created_at')->get() trie les tickets par date de création, du plus ancien au plus récent. Mon ticket apparaît donc en quatrième position dans la liste.
