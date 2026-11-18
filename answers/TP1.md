@@ -12,10 +12,7 @@ Hello roua!
 This page was built by a Blade view.
 Pour la deuxième adresse /hello/<marquee>Bob, le texte « Bob » ne défile pas comme une balise HTML <marquee>. Il est affiché comme du texte normal.
 
-Q5:  main.tickets ..................................................................  
-  Columns ..................................................................... 3  
+Q5:  7 columns
 
-  Column ................................................................... Type  
-  id integer, autoincrement ............................................. integer  
-  created_at datetime, nullable ........................................ datetime  
-  updated_at datetime, nullable ........................................ datetime 
+Q6 Illuminate\Database\Eloquent\MassAssignmentException  Add [name] to fillable property to allow mass assignment on [App\Models\Ticket].
+
